@@ -6,7 +6,6 @@ html {
   font-family: Roboto, sans-serif;
   font-size: 12px;
   font-weight: 500;
-  font-style: normal;
   text-transform: uppercase;
 }
 
@@ -30,16 +29,12 @@ body {
   display: flex;
   margin-left: auto;
   padding: 0;
-  list-style: none;
 }
 
 .nav-links {
   display: flex;
-
   margin: 0;
-  margin-left: auto;
   padding: 0;
-
   list-style: none;
 }
 
